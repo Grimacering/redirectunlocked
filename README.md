@@ -1,7 +1,6 @@
 # RedirectUnlocked
-Samples of malicious redirects taken from Steamunlocked
+**RedirectUnlocked** is an project to save all the **malicious redirects** from the site **SteamUnlocked**, and its extremly easy for you to accidentally download malicious files and extensions that pretends to be the actual game, not to also say that downloading pirated stuff is one thing you really must trust the source to do it, as it is the most common way to get a virus.
 
-RedirectUnlocked is an project by me WHATEVER to save the redirects that you may get on SteamUnlocked.
-This idea came after knowing that so many people download virus instead of the actual game because of SteamUnlocked, and there are fake installers and shady extensions everywhere on SteamUnlocked.
-Always be careful when downloading stuff, even more if the site is shady.
-More info soon.
+## Why are you saving malicious stuff?
+My purpose here is mostly to save it if someone wants to use it or inspect it (**_on a way that the person don't infect they own machine_**)
+And not only that, i want to warn people about download there, i see that there are **MANY** people that trust on **SteamUnlocked**, and you should **NEVER** 100% trust anything that gives out pirated games, always check what site you are downloading, always check if you got into any fake download redirect and always check most of the files that seems to possibly have something strange on it on VirusTotal, always check everything you download from sites that are not from the official developers, i higly recommend to you support the developer with money instead of taking the risk! (at least that is what i prefer)
