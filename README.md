@@ -1,4 +1,4 @@
-# redirectunlocked
+# RedirectUnlocked
 Samples of malicious redirects taken from Steamunlocked
 
 RedirectUnlocked is an project by me WHATEVER to save the redirects that you may get on SteamUnlocked.
